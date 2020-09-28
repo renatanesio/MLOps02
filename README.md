@@ -1,3 +1,3 @@
 # MLOps02
 
-Pushing data into Google Drive with dvc push.
+Pushing random data into Google Drive with dvc push.
